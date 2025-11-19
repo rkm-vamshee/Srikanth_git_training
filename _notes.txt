@@ -1,0 +1,26 @@
+master 
+
+main
+
+=======================
+
+
+
+WorkingArea => Staging area(Index) => Local Repository => RemoteRepository
+
+WorkingArea
+=============
+New Files
+New Changes of Old files 
+
+
+
+Git Commands
+===============
+git status
+
+git add .   => Go into Staging area 
+
+git commit -m "Added _notes.txt file" => Going into LocalRepositry
+
+git push => Going into LocalRepositry
