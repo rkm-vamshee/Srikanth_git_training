@@ -58,6 +58,7 @@ git branch -d feature
 Moving code between 2 branches 
 ========================
 
+git pull origin test_branch2 
 
 Code Review process
 
