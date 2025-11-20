@@ -24,3 +24,23 @@ git add .   => Go into Staging area
 git commit -m "Added _notes.txt file" => Going into LocalRepositry
 
 git push => Going into LocalRepositry
+
+
+List of branches
+===================
+git branch 
+
+
+To create Branch
+===================
+git branch test_branch
+
+
+To Activate Branch
+===================
+git checkout test_branch
+
+
+To Create and Activate Branch
+===================
+git checkout -b test_branch2
