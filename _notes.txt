@@ -44,3 +44,25 @@ git checkout test_branch
 To Create and Activate Branch
 ===================
 git checkout -b test_branch2
+
+
+To Delete Branch
+===================
+First we need to checkout to other branch and used below commad to delete
+
+git branch -d feature
+
+
+
+========================
+Moving code between 2 branches 
+========================
+
+
+Code Review process
+
+
+main => 
+srikanth=> push 
+
+Ask permission => pull request 
